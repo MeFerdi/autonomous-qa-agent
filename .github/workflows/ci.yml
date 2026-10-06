@@ -1,5 +1,3 @@
-# Lives inside the project folder so it travels with the project when it is
-# split into its own repository (GitHub only runs workflows from the repo root).
 name: ci
 
 on:
